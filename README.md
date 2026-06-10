@@ -1,0 +1,1 @@
+# Mendiagnosa-Penyakit-Tanaman-Padi-Menggunakan-Rule-Based-dengan-Hasil-Clustering-Algoritma-K-Means-
